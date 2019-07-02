@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>monitor on IKFA Cloud</title>
+    <link>/tags/monitor/</link>
+    <description>Recent content in monitor on IKFA Cloud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="/tags/monitor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Granfana Dashboard</title>
+      <link>/publication/conference-paper/granfana/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conference-paper/granfana/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pinpoint monitor</title>
+      <link>/publication/conference-paper/pinpoint/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conference-paper/pinpoint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prometheus</title>
+      <link>/publication/conference-paper/prometheus/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conference-paper/prometheus/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spring Boot Admin monitor</title>
+      <link>/publication/conference-paper/bootadmin/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/conference-paper/bootadmin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

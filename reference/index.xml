@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reference on IKFA Cloud</title>
+    <link>/reference/</link>
+    <description>Recent content in reference on IKFA Cloud</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mybatis-plus-doc</title>
+      <link>/reference/mybatis/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/reference/mybatis/</guid>
+      <description>&lt;p&gt;MyBatis-Plus（简称 MP）是一个 MyBatis 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ikfa-mybatis-plus-doc-ikfa.apps.uat.taikangcloud.com/guide/&#34; target=&#34;_blank&#34;&gt;点击阅读 MyBatis-Plus Guide &lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
